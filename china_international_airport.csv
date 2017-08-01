@@ -1,0 +1,21 @@
+Departure_airport,Airport_code,Has_direct_flight_to_US
+Guangzhou,CAN,1
+Changsha,CSX,1
+Chengdu,CTU,1
+Dalian ,DLC,1
+Hongkong,HKG,1
+Macau,MFM,1
+Nanjing,NKG,1
+Beijing,PEK,1
+Shanghai_Pudong,PVG,1
+Shanghai_Hongqiao,SHA,1
+Shenzhen,SZX,1
+Wuhan,WUH,1
+Xi_an,XIY,1
+Chongqing,CKG,0
+Fuzhou,FOC,0
+Hangzhou,HGH,1
+Qingdao,TAO,0
+Jinan,TNA,0
+Tianjin,TSN,1
+Xiamen,XMN,0
