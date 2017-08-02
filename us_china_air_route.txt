@@ -6290,3 +6290,134 @@ No flights found.
 
 
 Feedback - Disclaimer - Privacy
+
+FlightMapper.netFlight SearchCountriesAirlines
+All airlines flying from Nanjing (NKG) to Los Angeles (LAX).
+ Select flight date:  
+2017-08-02
+ 
+Show Calendar  Search
+FLIGHT SCHEDULE
+DIRECT FLIGHTS:
+Tue,Thu,Sat 14:00 Nanjing (NKG) 11:00 Los Angeles (LAX) B
+China Eastern MU 2855 Non-stop Airbus A330-200 (332) 12:00 Valid until 2017-11-04
+Tue,Thu,Sat 14:00 Nanjing (NKG) 10:00 Los Angeles (LAX) B
+China Eastern MU 2855 Non-stop Airbus A330-200 (332) 12:00 Effective 2017-11-07 through 2018-03-10
+Tue,Thu,Sat 14:00 Nanjing (NKG) 11:00 Los Angeles (LAX) B
+China Eastern MU 2855 Non-stop Airbus A330-200 (332) 12:00 Effective from 2018-03-13
+DIRECT CODESHARE FLIGHTS:
+Tue,Thu,Sat 14:00 Nanjing (NKG) 11:00 Los Angeles (LAX) B
+Delta Air Lines DL 6464 Non-stop Airbus A330-200 (332) 12:00 Valid until 2017-11-04 
+Codeshare flight, operated by China Eastern.(MU 2855)
+Tue,Thu,Sat 14:00 Nanjing (NKG) 11:00 Los Angeles (LAX) B
+Delta Air Lines DL 6464 Non-stop Airbus A330-200 (332) 12:00 Valid until 2017-11-04 
+Codeshare flight, operated by China Eastern.(MU 2855)
+Tue,Thu,Sat 14:00 Nanjing (NKG) 10:00 Los Angeles (LAX) B
+Delta Air Lines DL 6464 Non-stop Airbus A330-200 (332) 12:00 Effective 2017-11-07 through 2018-03-10 
+Codeshare flight, operated by China Eastern.(MU 2855)
+Tue,Thu,Sat 14:00 Nanjing (NKG) 10:00 Los Angeles (LAX) B
+Delta Air Lines DL 6464 Non-stop Airbus A330-200 (332) 12:00 Effective 2017-11-07 through 2018-03-10 
+Codeshare flight, operated by China Eastern.(MU 2855)
+Tue,Thu,Sat 14:00 Nanjing (NKG) 11:00 Los Angeles (LAX) B
+Delta Air Lines DL 6464 Non-stop Airbus A330-200 (332) 12:00 Effective from 2018-03-13 
+Codeshare flight, operated by China Eastern.(MU 2855)
+Tue,Thu,Sat 14:00 Nanjing (NKG) 11:00 Los Angeles (LAX) B
+Delta Air Lines DL 6464 Non-stop Airbus A330-200 (332) 12:00 Effective from 2018-03-13 
+Codeshare flight, operated by China Eastern.(MU 2855)
+An international route departing from Nanjing airport, China (NKG) and arriving at Los Angeles airport, United States (LAX).
+The flight distance is 6562 miles, or 10560 km.
+The timezone of the departure airport is UTC+8 , and the timezone of the arrival airport is UTC-8 (plus 1h DST). Current time at the point of departure is 1:28am, and 10:28am at the point of arrival. There is a -15 hour time difference between the airports.
+For direct flights, the flight time is 12:00.
+
+
+Return (LAX-NKG) flights
+
+
+Feedback - Disclaimer - Privacy
+
+FlightMapper.netFlight SearchCountriesAirlines
+All airlines flying from Hangzhou (HGH) to Los Angeles (LAX).
+ Select flight date:  
+2017-08-02
+ 
+Show Calendar  Search
+FLIGHT SCHEDULE
+DIRECT FLIGHTS:
+Mon,Thu 23:55 Hangzhou (HGH) 20:30 Los Angeles (LAX) B
+Sichuan Airlines 3U 8631 Non-stop Airbus A330 (330) 11:35 Valid until 2017-11-02
+Mon,Thu 23:55 Hangzhou (HGH) 19:30 Los Angeles (LAX) B
+Sichuan Airlines 3U 8631 Non-stop Airbus A330 (330) 11:35 Effective 2017-11-06 through 2018-03-08
+Mon,Thu 23:55 Hangzhou (HGH) 20:30 Los Angeles (LAX) B
+Sichuan Airlines 3U 8631 Non-stop Airbus A330 (330) 11:35 Effective 2018-03-12 through 2018-03-22
+An international route departing from Hangzhou airport, China (HGH) and arriving at Los Angeles airport, United States (LAX).
+The flight distance is 6570 miles, or 10573 km.
+The timezone of the departure airport is UTC+8 , and the timezone of the arrival airport is UTC-8 (plus 1h DST). Current time at the point of departure is 1:30am, and 10:30am at the point of arrival. There is a -15 hour time difference between the airports.
+For direct flights, the flight time is 11:35.
+
+
+Return (LAX-HGH) flights
+
+
+Feedback - Disclaimer - Privacy
+
+FlightMapper.netFlight SearchCountriesAirlines
+All airlines flying from Hangzhou (HGH) to San Francisco (SFO).
+ Select flight date:  
+2017-08-02
+ 
+Show Calendar  Search
+FLIGHT SCHEDULE
+DIRECT FLIGHTS:
+Mon,Wed,Fri 10:55 Hangzhou (HGH) 07:50 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:55 Valid until 2017-10-27
+Mon,Wed,Fri 10:55 Hangzhou (HGH) 07:50 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:55 Valid until 2017-10-27
+Mon,Wed,Fri 10:55 Hangzhou (HGH) 07:50 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:55 Effective from 2018-03-26
+Mon,Wed,Fri 10:55 Hangzhou (HGH) 07:50 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:55 Effective from 2018-03-26
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 08:30 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:15 Effective 2017-10-30 through 2017-11-03
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 08:30 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:15 Effective 2017-10-30 through 2017-11-03
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 07:30 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:15 Effective 2017-11-06 through 2018-01-01
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 07:30 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:15 Effective 2017-11-06 through 2018-01-01
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 07:40 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:25 Effective 2018-01-03 through 2018-03-09
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 07:40 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:25 Effective 2018-01-03 through 2018-03-09
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 08:40 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:25 Effective 2018-03-12 through 2018-03-23
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 08:40 San Francisco (SFO) I
+United Airlines UA 983 Non-stop Boeing 787-9 (789) 11:25 Effective 2018-03-12 through 2018-03-23
+DIRECT CODESHARE FLIGHTS:
+Mon,Wed,Fri 10:55 Hangzhou (HGH) 07:50 San Francisco (SFO) I
+Air China CA 7199 Non-stop Boeing 787-9 (789) 11:55 Valid until 2017-10-27 
+Codeshare flight, operated by United Airlines.(UA 983)
+Mon,Wed,Fri 10:55 Hangzhou (HGH) 07:50 San Francisco (SFO) I
+Air China CA 7199 Non-stop Boeing 787-9 (789) 11:55 Effective from 2018-03-26 
+Codeshare flight, operated by United Airlines.(UA 983)
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 08:30 San Francisco (SFO) I
+Air China CA 7199 Non-stop Boeing 787-9 (789) 11:15 Effective 2017-10-30 through 2017-11-03 
+Codeshare flight, operated by United Airlines.(UA 983)
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 07:30 San Francisco (SFO) I
+Air China CA 7199 Non-stop Boeing 787-9 (789) 11:15 Effective 2017-11-06 through 2018-01-01 
+Codeshare flight, operated by United Airlines.(UA 983)
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 07:40 San Francisco (SFO) I
+Air China CA 7199 Non-stop Boeing 787-9 (789) 11:25 Effective 2018-01-03 through 2018-03-09 
+Codeshare flight, operated by United Airlines.(UA 983)
+Mon,Wed,Fri 12:15 Hangzhou (HGH) 08:40 San Francisco (SFO) I
+Air China CA 7199 Non-stop Boeing 787-9 (789) 11:25 Effective 2018-03-12 through 2018-03-23 
+Codeshare flight, operated by United Airlines.(UA 983)
+An international route departing from Hangzhou airport, China (HGH) and arriving at San Francisco airport, United States (SFO).
+The flight distance is 6236 miles, or 10035 km.
+The timezone of the departure airport is UTC+8 , and the timezone of the arrival airport is UTC-8 (plus 1h DST). Current time at the point of departure is 1:30am, and 10:30am at the point of arrival. There is a -15 hour time difference between the airports.
+For direct flights, the flight time varies between 11:15 and 11:55.
+
+
+Return (SFO-HGH) flights
+
+
+Feedback - Disclaimer - Privacy
