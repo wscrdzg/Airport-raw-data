@@ -6292,7 +6292,6 @@ No flights found.
 Feedback - Disclaimer - Privacy
 
     FlightMapper.net
-FlightMapper.netFlight SearchCountriesAirlines
 All airlines flying from Nanjing (NKG) to Los Angeles (LAX).
  Select flight date:  
 2017-08-02
@@ -6337,7 +6336,6 @@ Return (LAX-NKG) flights
 Feedback - Disclaimer - Privacy
 
     FlightMapper.net
-FlightMapper.netFlight SearchCountriesAirlines
 All airlines flying from Hangzhou (HGH) to Los Angeles (LAX).
  Select flight date:  
 2017-08-02
@@ -6363,7 +6361,6 @@ Return (LAX-HGH) flights
 Feedback - Disclaimer - Privacy
 
     FlightMapper.net
-FlightMapper.netFlight SearchCountriesAirlines
 All airlines flying from Hangzhou (HGH) to San Francisco (SFO).
  Select flight date:  
 2017-08-02
